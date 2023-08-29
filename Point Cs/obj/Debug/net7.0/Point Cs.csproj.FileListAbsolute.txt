@@ -1,0 +1,15 @@
+/Users/macm2/Projects/Point Cs/bin/Debug/net7.0/Point Cs
+/Users/macm2/Projects/Point Cs/bin/Debug/net7.0/Point Cs.deps.json
+/Users/macm2/Projects/Point Cs/bin/Debug/net7.0/Point Cs.runtimeconfig.json
+/Users/macm2/Projects/Point Cs/bin/Debug/net7.0/Point Cs.dll
+/Users/macm2/Projects/Point Cs/bin/Debug/net7.0/Point Cs.pdb
+/Users/macm2/Projects/Point Cs/obj/Debug/net7.0/Point Cs.csproj.AssemblyReference.cache
+/Users/macm2/Projects/Point Cs/obj/Debug/net7.0/Point Cs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macm2/Projects/Point Cs/obj/Debug/net7.0/Point Cs.AssemblyInfoInputs.cache
+/Users/macm2/Projects/Point Cs/obj/Debug/net7.0/Point Cs.AssemblyInfo.cs
+/Users/macm2/Projects/Point Cs/obj/Debug/net7.0/Point Cs.csproj.CoreCompileInputs.cache
+/Users/macm2/Projects/Point Cs/obj/Debug/net7.0/Point Cs.dll
+/Users/macm2/Projects/Point Cs/obj/Debug/net7.0/refint/Point Cs.dll
+/Users/macm2/Projects/Point Cs/obj/Debug/net7.0/Point Cs.pdb
+/Users/macm2/Projects/Point Cs/obj/Debug/net7.0/Point Cs.genruntimeconfig.cache
+/Users/macm2/Projects/Point Cs/obj/Debug/net7.0/ref/Point Cs.dll
